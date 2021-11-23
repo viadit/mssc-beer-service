@@ -2,6 +2,7 @@ D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\cont
 D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\mappers\DateMapper.java
 D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\model\BeerStyleEnum.java
 D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\services\inventory\model\BeerInventoryDto.java
+D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\config\JmsConfig.java
 D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\bootstrap\BeerLoader.java
 D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\web\mappers\BeerMapper.java
 D:\mssc-beer-service\src\main\java\guru\springframework\msscbeerservice\config\CacheConfig.java

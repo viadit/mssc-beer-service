@@ -10,6 +10,7 @@ guru\springframework\msscbeerservice\web\model\BeerDto$BeerDtoBuilder.class
 guru\springframework\msscbeerservice\MsscBeerServiceApplication.class
 guru\springframework\msscbeerservice\domain\Beer.class
 guru\springframework\msscbeerservice\services\inventory\BeerInventoryService.class
+guru\springframework\msscbeerservice\config\JmsConfig.class
 guru\springframework\msscbeerservice\web\controller\BeerController.class
 guru\springframework\msscbeerservice\web\mappers\BeerMapperImpl.class
 guru\springframework\msscbeerservice\services\inventory\model\BeerInventoryDto.class
