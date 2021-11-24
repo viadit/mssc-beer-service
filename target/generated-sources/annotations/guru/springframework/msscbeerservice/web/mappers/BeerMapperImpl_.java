@@ -1,10 +1,10 @@
 package guru.springframework.msscbeerservice.web.mappers;
 
+import guru.springframework.brewery.model.BeerDto;
+import guru.springframework.brewery.model.BeerDto.BeerDtoBuilder;
+import guru.springframework.brewery.model.BeerStyleEnum;
 import guru.springframework.msscbeerservice.domain.Beer;
 import guru.springframework.msscbeerservice.domain.Beer.BeerBuilder;
-import guru.springframework.msscbeerservice.web.model.BeerDto;
-import guru.springframework.msscbeerservice.web.model.BeerDto.BeerDtoBuilder;
-import guru.springframework.msscbeerservice.web.model.BeerStyleEnum;
 import javax.annotation.processing.Generated;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
@@ -12,7 +12,7 @@ import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2021-11-23T22:22:29+0530",
+    date = "2021-11-24T19:27:41+0530",
     comments = "version: 1.3.1.Final, compiler: javac, environment: Java 15.0.2 (Oracle Corporation)"
 )
 @Component
